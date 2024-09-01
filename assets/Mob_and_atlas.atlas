@@ -1,0 +1,11 @@
+Mob_and_atlas.png
+size:1024,1024
+repeat:none
+caer
+bounds:390,2,192,256
+character_maleAdventurer_sheet
+bounds:2,260,864,640
+ganar
+bounds:196,2,192,256
+saltar
+bounds:2,2,192,256

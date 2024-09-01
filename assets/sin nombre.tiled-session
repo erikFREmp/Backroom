@@ -1,0 +1,155 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "prueba10.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "azul.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "background.tmx": {
+            "scale": 0.5422916666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 682.2896657702652,
+                "y": 596.542451018056
+            }
+        },
+        "backroom.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "dynamic-wang-NQc1T5H8J-0-unsplash.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "imagen2.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.5
+        },
+        "imagen3.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "images/Backrooms_model.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "images/mango.tmx": {
+            "scale": 0.5828645833333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 653.6681261728174,
+                "y": 457.2245554463409
+            }
+        },
+        "images/prueba.tmx": {
+            "scale": 0.5828645833333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 72.05790367259402,
+                "y": 357.7160218032348
+            }
+        },
+        "negro01.tsx": {
+            "scaleInDock": 1
+        },
+        "poolroom.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "poolroom2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "poolroom3.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "prueba01.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 882,
+                "y": 25.5
+            }
+        },
+        "prueba04.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1909.3333333333333,
+                "y": 574
+            }
+        },
+        "prueba1.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1082,
+                "y": 255.5
+            }
+        },
+        "prueba10.tmx": {
+            "scale": 4,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1085.5,
+                "y": 27.375
+            }
+        },
+        "real.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/thega/OneDrive/Desktop/MouseWithoutBorders",
+    "map.height": 13,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 240,
+    "openFiles": [
+        "prueba04.tmx",
+        "backroom.tsx",
+        "imagen2.tsx",
+        "imagen3.tsx",
+        "poolroom.tsx",
+        "poolroom2.tsx",
+        "poolroom3.tsx",
+        "real.tsx",
+        "prueba10.tmx"
+    ],
+    "project": "sin nombre.tiled-project",
+    "recentFiles": [
+        "prueba04.tmx",
+        "backroom.tsx",
+        "imagen2.tsx",
+        "imagen3.tsx",
+        "poolroom.tsx",
+        "poolroom2.tsx",
+        "poolroom3.tsx",
+        "real.tsx",
+        "prueba10.tmx",
+        "prueba01.tmx",
+        "dynamic-wang-NQc1T5H8J-0-unsplash.tsx",
+        "background.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

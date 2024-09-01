@@ -1,0 +1,33 @@
+
+Mob_and_enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+character_maleAdventurer_sheet
+  rotate: false
+  xy: 1, 259
+  size: 864, 640
+  orig: 864, 640
+  offset: 0, 0
+  index: -1
+caer
+  rotate: false
+  xy: 1, 1
+  size: 192, 256
+  orig: 192, 256
+  offset: 0, 0
+  index: -1
+ganar
+  rotate: false
+  xy: 195, 1
+  size: 192, 256
+  orig: 192, 256
+  offset: 0, 0
+  index: -1
+saltar
+  rotate: false
+  xy: 389, 1
+  size: 192, 256
+  orig: 192, 256
+  offset: 0, 0
+  index: -1

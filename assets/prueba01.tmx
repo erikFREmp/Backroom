@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="4">
+ <tileset firstgid="1" source="backroom.tsx"/>
+ <tileset firstgid="1486" source="dynamic-wang-NQc1T5H8J-0-unsplash.tsx"/>
+ <layer id="2" name="background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmLEOgzAMRPMJ/f+tU2fU3+vQIUKqaFOc2OcQ6Q03IIjvsPMQyvYoZUMILavbs5TX/VvHZzL0K8eZMnOO5FPkjK6f1Vevj6f/GXslwtNa43jdWqNmwjujFb4xipzR9bP66vWJ4Ddzf4x4Wmqswu8xw+ycVn/41fi0uJz5TtGePfy2/qHh1zcf+NX49KyHX+27WrPPnsmIP/xqfOC3Cn6184FfjQ/8VsGvdj7wq/GB3yrOr7TzgV+ND/xWwa92PvCr8YHfqn//zldhY9fZ/aycVn91zuj6WX31+vSsn7FXIjytNfbr1vNXYcMqdU6rvzpndP2svnp9etbP2CsRnj01Ps+vEELr6Q0TCiUr
+  </data>
+ </layer>
+ <objectgroup id="3" name="suelo">
+  <object id="1" x="1" y="191" width="3838.5" height="17.5"/>
+  <object id="2" x="260" y="-97"/>
+ </objectgroup>
+ <layer id="4" name="Plataforma" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt10EOhCAMBVDvv5+DeEMXk9mYGBGkFOa9hI2LUpP+ANsGAAAAXPns33X3baRMvUAm2fL727tmnetE9fhmXcimJYet+9X2UNpjr7qQwYi5nDUHs/bNGL3Pg6jsRt6de3H+8kTJvLTMVHR2z3fa2cgvpZ7MSs1cRWZ3pXfkrH0Tp3ceo7O7ktX+B+AfHFytr70=
+  </data>
+ </layer>
+</map>
